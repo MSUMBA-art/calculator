@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Iam building a web app Calculator",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSUMBA-art/calculator.git"
+  },
+  "author": "Alexander Msumba, jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSUMBA-art/calculator/issues"
+  },
+  "homepage": "https://github.com/MSUMBA-art/calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
